@@ -162,7 +162,7 @@ header {
   right:30%;
   height: 350px;
   width: 650px;
-  animation: slideInRight 1s forwards;
+  animation: slideInRight 2s forwards;
     background-size: cover;
   background-position: center;
   position: relative;
